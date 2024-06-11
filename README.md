@@ -1,6 +1,7 @@
 # JavaSpringBoot
 
 ## Shortcut
+
 1. **General Shortcuts:**
    - `Cmd + Shift + A`: Find Action
    - `Cmd + O`: Navigate to Class
@@ -40,4 +41,7 @@
    - `Cmd + Shift + Enter`: Complete statement
    - `Ctrl + Shift + Space`: Type completion
 
+5. **Mac OS Shortcut:**
+   - Mission Control: This shows all open windows, desktop spaces, and full-screen apps. Press the Control key and the Up Arrow key (Ctrl + ↑).
+   - 
 These shortcuts should help you work efficiently on a Mac with IntelliJ IDEA and Spring Boot projects.
